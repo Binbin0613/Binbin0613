@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### XHU软件工程本，UESTC软件工程专硕，22岁在读研一身高170cm体重不说的每天8点到23点坐实验室周末无休的码农一位！
+
 <!--https://github.com/anuraghazra/github-readme-stats-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Binbin0613&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
