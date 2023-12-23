@@ -49,7 +49,8 @@ Sina: 基本上不玩，偶尔看看 </br>
 
 #### Resource
 ##### C++
-
+- [(C++基础01)-安装环境及C++简介](https://binbin0613.github.io/2023/073116140.html)
+- 
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Binbin0613&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
