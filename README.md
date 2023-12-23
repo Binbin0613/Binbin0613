@@ -48,9 +48,47 @@ Github: https://github.com/Binbin0613 </br>
 Sina: 基本上不玩，偶尔看看 </br>
 
 #### Resource
+
+##### 了解一下我
+-[Binbin0613-毕业那天](https://binbin0613.github.io/2023/081016155.html)
+
+
 ##### C++
 - [(C++基础01)-安装环境及C++简介](https://binbin0613.github.io/2023/073116140.html)
-- 
+- [(C++基础02)-数据类型，运算符，表达式](https://binbin0613.github.io/2023/073116141.html)
+- [(C++基础03)-程序的基本结构和语句](https://binbin0613.github.io/2023/073116142.html)
+- [(C++基础04)-数组](https://binbin0613.github.io/2023/080116143.html)
+- [(C++基础05)-函数](https://binbin0613.github.io/2023/080116144.html)
+- [(C++基础06)-编译预处理](https://binbin0613.github.io/2023/080216145.html)
+- [(C++基础07)-指针](https://binbin0613.github.io/2023/080216146.html)
+- [(C++基础08)-结构体](https://binbin0613.github.io/2023/080316147.html)
+- [(C++基础09)-位运算及其应用场景](https://binbin0613.github.io/2023/080716148.html)
+- [(C++代码小技巧)](https://binbin0613.github.io/2023/080816150.html)
+- [(C++进阶01)-C++编译过程，头文件防卫，命名空间](https://binbin0613.github.io/2023/080816149.html)
+- [(C++进阶02)-范围for，new内存动态分配，nullptr](https://binbin0613.github.io/2023/080916151.html)
+- [(C++进阶03)-结构，权限修饰符，类，内联函数和const](https://binbin0613.github.io/2023/080916152.html)
+- [(C++进阶04)-string,vector](https://binbin0613.github.io/2023/080916153.html)
+- [(C++进阶05)-迭代器](https://binbin0613.github.io/2023/081016154.html)
+- [(C++进阶06)-类-初始化-构造函数-对象](https://binbin0613.github.io/2023/081016156.html)
+- [(C++进阶07)-类-inline-const-mutable-this-static](https://binbin0613.github.io/2023/081016157.html)
+- [(C++进阶08)-类-重载运算法-派生类-析构函数](https://binbin0613.github.io/2023/081716158.html)
+- [(C++进阶09)-类-RTTI-dynamic_cast-typeid](https://binbin0613.github.io/2023/081816159.html)
+- [(C++进阶10)-类-左右值-左右值引用-move](https://binbin0613.github.io/2023/081916160.html)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Binbin0613&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
