@@ -39,12 +39,17 @@
 ------------------------------------------------------------
 
 
+
 #### More Info:
 QQ：3474251879 </br>
 WeChat: Ilovedaisysomuch </br>
 Email: Binbin.0626@foxmail.com </br>
 Github: https://github.com/Binbin0613 </br>
 Sina: 基本上不玩，偶尔看看 </br>
+
+#### Resource
+##### C++
+
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Binbin0613&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
