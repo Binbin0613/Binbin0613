@@ -1,7 +1,7 @@
 ### Hi there, I'm Binbin Deng👋
 
 
-### Xihua University software engineering bachelor's degree, University of Electronic Science and Technology software engineering master's degree is studying, 22-year-old research a height of 170cm weight does not say that every day from 8:00 to 23:00 to sit in the laboratory on weekends without rest of the code farmer one!
+### Xihua University software engineering bachelor's degree, University of Electronic Science and Technology software engineering master's degree is studying, 23-year-old research a height of 170cm weight does not say that every day from 8:00 to 23:00 to sit in the laboratory on weekends without rest of the code farmer one!
 
 
 - 🔭 I’m currently working on  [Person Re-ID](https://github.com/Binbin0613) &nbsp; &nbsp; [Person Search](https://github.com/Binbin0613) &nbsp;&nbsp; [JAVA](https://github.com/Binbin0613) &nbsp;&nbsp; [C++](https://github.com/Binbin0613) &nbsp;&nbsp; [Vue](https://github.com/Binbin0613) &nbsp;&nbsp; [React](https://github.com/Binbin0613)
@@ -48,6 +48,11 @@
 
 ------------------------------------------------------------
 
+感觉自己啥都不会！慢慢来吧
+2024.09.18-广东深圳南山 天空之城
+
+------------------------------------------------------------
+
 #### More Info:
 QQ：3474251879 </br>
 WeChat: Ilovedaisysomuch </br>
@@ -82,15 +87,6 @@ Sina: 基本上不玩，偶尔看看 </br>
 - [(C++进阶08)-类-重载运算法-派生类-析构函数](https://binbin0613.github.io/2023/081716158.html)
 - [(C++进阶09)-类-RTTI-dynamic_cast-typeid](https://binbin0613.github.io/2023/081816159.html)
 - [(C++进阶10)-类-左右值-左右值引用-move](https://binbin0613.github.io/2023/081916160.html)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 - []()
 - []()
 - []()
