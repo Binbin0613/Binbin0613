@@ -62,6 +62,11 @@
 2024.09.29-广东深圳南山 ，乐普大厦-卓驭科技
 
 ------------------------------------------------------------
+
+又来公司了，工作氛围依旧很卷，希望这段实习期能够有所收获！ Bin今年秋招顺利！
+2025.02.17-广东深圳南山 ，乐普大厦-卓驭科技
+
+------------------------------------------------------------
 #### More Info:
 QQ：3474251879 </br>
 WeChat: Ilovedaisysomuch </br>
@@ -99,9 +104,6 @@ Sina: 基本上不玩，偶尔看看 </br>
 - []()
 - []()
 - []()
-
-
-
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Binbin0613&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
